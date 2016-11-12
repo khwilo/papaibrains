@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 	body{
 	from {background-color: yellow;}
@@ -22,3 +23,16 @@
 	  }
 	  ul.topNavbar li.icon { display: none; }
 	  ul.topnav li achover {background-color: #7FFF00;}
+=======
+body{
+  background-color: white;
+  background: image/papai3.jpg;
+}
+#h1{
+  color: green;
+  text-align: center;
+}
+.topNavbar{
+  list-style-type: none;
+}
+>>>>>>> 2bdb52d5531089417b47b9ae32c901be6c96fc09
