@@ -35,4 +35,9 @@ body{
 .topNavbar{
   list-style-type: none;
 }
->>>>>>> 2bdb52d5531089417b47b9ae32c901be6c96fc09
+
+/* attributes to define the map */
+#mapid{
+	height: 400px;
+	width: 600px;
+}
