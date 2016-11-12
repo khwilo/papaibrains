@@ -3,10 +3,10 @@
 	<head>
 		<meta charset="utf-8">
 		<title>Papai Brains</title>
-		<link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.1/dist/leaflet.css" />
-    <link rel="stylesheet" href="css/style.css"/>
-		<script src="https://unpkg.com/leaflet@1.0.1/dist/leaflet.js"></script>
-		<script src="http://d3js.org/d3.v3.min.js"></script>
+		<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7/leaflet.css" />
+    <link rel="stylesheet" href="./css/style.css"/>
+		<script src="http://cdn.leafletjs.com/leaflet-0.7/leaflet.js"></script>
+		<script src="http://d3js.org/d3.v4.min.js"></script>
 	</head>
 	<body>
 		<!-- this is where the links for home, about, etc will be -->
@@ -19,7 +19,13 @@
 		</header>
 		
 		<!-- this is where the main section of the body will be -->
-		<main></main>
+		<main>
+		  <!-- this is where the map will be -->
+			<div id="mapid">
+				<script src="./js/map.js"></script>
+						 
+			</div>
+		</main>
 
 		<!-- include content such as copyright etc -->
 		<footer></footer>

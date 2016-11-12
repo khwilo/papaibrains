@@ -9,3 +9,9 @@ body{
 .topNavbar{
   list-style-type: none;
 }
+
+/* attributes to define the map */
+#mapid{
+	height: 400px;
+	width: 600px;
+}
