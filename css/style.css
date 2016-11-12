@@ -1,0 +1,24 @@
+
+	body{
+	from {background-color: yellow;}
+	to {background-color: blue;}
+	}
+ 
+ ul.topNavbar li { 
+ float:left;
+	  }
+	  ul.topNavbar-toggle { 
+ z-index:3;
+	  }
+ ul.topNavbar li a{
+	 display: inline-block;
+	 padding: 14px 16px;
+	  text-align: center;
+	   color: #0000ff;
+	 text-decoration: none;
+    transition: 0.3s;
+    font-size: 17px; 
+	icon-display:none;
+	  }
+	  ul.topNavbar li.icon { display: none; }
+	  ul.topnav li achover {background-color: #7FFF00;}

@@ -1,0 +1,229 @@
+{
+  "Sheet1": [
+    {
+      "id": "1",
+      "Farm_name": "Migingo",
+      "District": "Kilifi",
+      "Province": "Coast ",
+      "Latitude": "S03.91324",
+      "Longitude": "39.7397",
+      "Elevation": "12"
+    },
+    {
+      "id": "2",
+      "Farm_name": "Kilifi Institute",
+      "District": "Kilifi",
+      "Province": "Coast ",
+      "Latitude": "S03.92096",
+      "Longitude": "39.4426",
+      "Elevation": "37"
+    },
+    {
+      "id": "3",
+      "Farm_name": "Salehe-in",
+      "District": "Kilifi",
+      "Province": "Coast ",
+      "Latitude": "S03.92476",
+      "Longitude": "39.8426",
+      "Elevation": "25"
+    },
+    {
+      "id": "4",
+      "Farm_name": "Khosla farm",
+      "District": "Kilifi",
+      "Province": "Coast ",
+      "Latitude": "S03.90316",
+      "Longitude": "39.7599",
+      "Elevation": "12"
+    },
+    {
+      "id": "5",
+      "Farm_name": "Imani ",
+      "District": "Taita",
+      "Province": "Coast ",
+      "Latitude": "S03.59904",
+      "Longitude": "38.7329",
+      "Elevation": "613"
+    },
+    {
+      "id": "6",
+      "Farm_name": "Voi",
+      "District": "Taita",
+      "Province": "Coast ",
+      "Latitude": "S03.39423",
+      "Longitude": "38.5631",
+      "Elevation": "582"
+    },
+    {
+      "id": "7",
+      "Farm_name": "Voi ",
+      "District": "Taita",
+      "Province": "Coast ",
+      "Latitude": "S03.42621",
+      "Longitude": "38.5537",
+      "Elevation": "589"
+    },
+    {
+      "id": "8",
+      "Farm_name": "Manyani",
+      "District": "Taita",
+      "Province": "Coast ",
+      "Latitude": "S03.09620",
+      "Longitude": "38.9902",
+      "Elevation": "552"
+    },
+    {
+      "id": "9",
+      "Farm_name": "Marigat ",
+      "District": "Baringo",
+      "Province": "Rift Valley ",
+      "Latitude": "N00.46673",
+      "Longitude": "35.993",
+      "Elevation": "1025"
+    },
+    {
+      "id": "10",
+      "Farm_name": "Marigat",
+      "District": "Baringo",
+      "Province": "Rift Valley ",
+      "Latitude": "N00.46885",
+      "Longitude": "36.0045",
+      "Elevation": "1011"
+    },
+    {
+      "id": "11",
+      "Farm_name": "Cheptebo ",
+      "District": "Keiyo",
+      "Province": "Rift Valley ",
+      "Latitude": "N00.47220",
+      "Longitude": "35.6033",
+      "Elevation": "1232"
+    },
+    {
+      "id": "12",
+      "Farm_name": "Sacred Training Institute ",
+      "District": "Bungoma ",
+      "Province": "Western ",
+      "Latitude": "N00.58966",
+      "Longitude": "34.5364",
+      "Elevation": "1434"
+    },
+    {
+      "id": "13",
+      "Farm_name": "Vihiga ",
+      "District": "Vihiga",
+      "Province": "Western ",
+      "Latitude": "N00.01008",
+      "Longitude": "34.7495",
+      "Elevation": "1455"
+    },
+    {
+      "id": "14",
+      "Farm_name": "Rapogi",
+      "District": "Rongo",
+      "Province": "Nyanza ",
+      "Latitude": "S00.44360",
+      "Longitude": "34.3411",
+      "Elevation": "1380"
+    },
+    {
+      "id": "15",
+      "Farm_name": "Nyasaoro",
+      "District": "Rongo",
+      "Province": "Nyanza ",
+      "Latitude": "S00.45200",
+      "Longitude": "34.3817",
+      "Elevation": "1561"
+    },
+    {
+      "id": "16",
+      "Farm_name": "Nyakongo ",
+      "District": "Nyamira ",
+      "Province": "Nyanza,",
+      "Latitude": "S00.59200",
+      "Longitude": "34.9191",
+      "Elevation": "2019"
+    },
+    {
+      "id": "17",
+      "Farm_name": "Molo",
+      "District": "Nakuru",
+      "Province": "Rift Valley ",
+      "Latitude": "S00.14206",
+      "Longitude": "35.4433",
+      "Elevation": "2425"
+    },
+    {
+      "id": "18",
+      "Farm_name": "Molo",
+      "District": "Nakuru",
+      "Province": "Rift Valley ",
+      "Latitude": "S00.92290",
+      "Longitude": "36.071",
+      "Elevation": "1913"
+    },
+    {
+      "id": "19",
+      "Farm_name": "Kaunu",
+      "District": "Tharaka ",
+      "Province": "Eastern ",
+      "Latitude": "S00.16746",
+      "Longitude": "37.8044",
+      "Elevation": "897"
+    },
+    {
+      "id": "20",
+      "Farm_name": "Kaunu",
+      "District": "Tharaka ",
+      "Province": "Eastern ",
+      "Latitude": "S00.16739",
+      "Longitude": "37.8059",
+      "Elevation": "891"
+    },
+    {
+      "id": "21",
+      "Farm_name": "Kianamothi ",
+      "District": "Tharaka ",
+      "Province": "Eastern ",
+      "Latitude": "S00.18659",
+      "Longitude": "37.8149",
+      "Elevation": "874"
+    },
+    {
+      "id": "22",
+      "Farm_name": "Embu Training Institute ",
+      "District": "Embu",
+      "Province": "Eastern ",
+      "Latitude": "S00.51275",
+      "Longitude": "37.4575",
+      "Elevation": "1488"
+    },
+    {
+      "id": "23",
+      "Farm_name": "Mwea ",
+      "District": "Kirinyaga",
+      "Province": "Central",
+      "Latitude": "S00.72724",
+      "Longitude": "37.4261",
+      "Elevation": "1124"
+    },
+    {
+      "id": "24",
+      "Farm_name": "Kibirigwe",
+      "District": "Kirinyaga",
+      "Province": "Central",
+      "Latitude": "S00.53487",
+      "Longitude": "37.1825",
+      "Elevation": "1431"
+    },
+    {
+      "id": "25",
+      "Farm_name": "Kimirine",
+      "District": "Maragwa",
+      "Province": "Central",
+      "Latitude": "S00.46060",
+      "Longitude": "37.0912",
+      "Elevation": "1289"
+    }
+  ]
+}
